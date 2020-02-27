@@ -5,7 +5,7 @@ Last Modified: 27th of Feburary 2020
 2. Be respectful to all community members and staff.
 3. Scamming (the act of stealing through deception or trickery) is not allowed and will not be tolerated.
 4. Swearing/Cursing, rudeness and harassment will not be tolerated.
-5. Do not spam, or flood the chat in a way that ruins others experiences.
+5. Do not spam, or flood the chat in a way that ruins others experiences.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.A Spamming is sending multiple messages in a short time, repeatedly sending the same message, or sending one or more excessively long messages.
 6. Follow the directions given by any Staff Member.
 7. Do not lie to a staff member [Exodus 20:16]. If you believe a staff member is abusing their power through wrongful punishments or other methods, please email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> and provide any evidence or details you possess regarding the staff member.
