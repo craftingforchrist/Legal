@@ -1,4 +1,4 @@
-Last Modified: 21st of November 2019
+Last Modified: 27th of Feburary 2020
 
 # A. Network Global Guidelines
 1. Maintain a casual and positive atmosphere at all times. Be respectful of all players. Harassment and bullying are strictly not allowed.
