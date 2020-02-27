@@ -22,7 +22,7 @@ Last Modified: 27th of Feburary 2020
 
 ## B.1 Survival Specific
 1. No obscene/questionable language, names, or builds.<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.A If you wish to create a build that you are either unsure of, or if it would be considered inappropriate, but you believe the context justifies it, then consult with the staff team for confirmation.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.A If you wish to create a build that you are either unsure of, or if it would be considered inappropriate, but you believe the context justifies it, then consult with the staff team for confirmation.
 2. No PVP unless weapons are drawn by all parties. [Matthew 10:34, Ephesians 6:17, Luke 22:36]
 3. Stealing from another player in any way, shape, or form will not be tolerated, [Exodus 20:15, Exodus 22:2-4] 
 4. If you’re building near someone else's base, please contact them first to make sure they don’t have plans for the area. Clearly mark your planned builds.
