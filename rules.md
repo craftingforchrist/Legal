@@ -3,18 +3,17 @@ Last Modified: 27th of Feburary 2020
 # A. Network Global Guidelines
 1. Maintain a casual and positive atmosphere at all times. Be respectful of all players. Harassment and bullying are strictly not allowed.
 2. Be respectful to all community members and staff.
-2. Scamming (the act of stealing through deception or trickery) is not allowed and will not be tolerated.
-3. Swearing, rudeness and harassment will not be tolerated.
-4. Do not spam. This includes sending multiple messages in a short time, repeatedly sending the same message, or sending one or more excessively long messages.
-5. Follow the directions given by any staff member.
-6. Do not lie to a staff member [Exodus 20:16]. If you believe a staff member is abusing their power through wrongful punishments or other methods, please email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> and provide any evidence or details you possess regarding the staff member.
-7. Do not intentionally take advantage of server exploits that give you an advantage of other players. We highly encourage you to submit a ticket on the issue tracker, http://www.craftingforchrist.net/issues, with details regarding the potential server exploit.
-8. We do not allow NSFW (Not Safe For Work), vulgar or disturbing content.
-9. Advertising any other Minecraft or Discord servers is prohibited.
-10. DDOS threats will not be tolerated.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;10.1 DDOS threats is treated as a Discord ToS violation.
-11. Ban Evading is strictly forbidden.
-
+3. Scamming (the act of stealing through deception or trickery) is not allowed and will not be tolerated.
+4. Swearing, rudeness and harassment will not be tolerated.
+5. Do not spam. This includes sending multiple messages in a short time, repeatedly sending the same message, or sending one or more excessively long messages.
+6. Follow the directions given by any staff member.
+7. Do not lie to a staff member [Exodus 20:16]. If you believe a staff member is abusing their power through wrongful punishments or other methods, please email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> and provide any evidence or details you possess regarding the staff member.
+8. Do not intentionally take advantage of server exploits that give you an advantage of other players. We highly encourage you to submit a ticket on the issue tracker, http://www.craftingforchrist.net/issues, with details regarding the potential server exploit.
+9. We do not allow NSFW (Not Safe For Work), vulgar or disturbing content.
+10. Advertising any other Minecraft or Discord servers is prohibited.
+11. DDOS threats will not be tolerated.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11.1 DDOS threats is treated as a Discord ToS violation.
+12. Ban Evading is strictly forbidden.
 
 # B. Glocal Minecraft Guidelines
 1. Your Minecraft username and skin must be appropriate for all ages. Objectionable skins will not be tolerated. Objectionable usernames and any username that gives the impression of or slightly relates to something objectionable will result in punishment.
