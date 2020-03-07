@@ -1,6 +1,6 @@
 Last Updated: 8th of August 2019
 
-By using any service of Crafting For Christ you are agreeing to be found by the following terms and conditions.
+By using any service of Crafting For Christ you are agreeing to be bound by the following terms and conditions.
 
 Crafting For Christ reserves the right to update and change the terms of service at any time without notice or reason. Any new features are subject to the Terms of Service. Continued use of our servers after such changes constitutes your consent to such changes.
 
