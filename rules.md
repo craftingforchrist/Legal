@@ -35,7 +35,7 @@ Last Modified: 3rd of March 2020
 8. Spawn chunks are out of bounds for building bases.
 9. Enderman, Gold and Iron farms are not to be built until The End is free.
 10. The End Outer islands will be reset every 3 months. The Staff Team is not responsible for any builds or items lost from the End pruning.
-11. Flying TNT dupers are not allowed.
+11. Flying TNT dupers are not allowed. Stationary TNT dupers are permitted for small farms. Excessive or large TNT duping farms are not permitted.
 12. Pranks done in fun, among friends are permitted, but genuine griefing will not be tolerated.
 
 # C. Forum Guidelines
