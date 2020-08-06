@@ -37,6 +37,11 @@ Last Modified: 3rd of March 2020
 10. The End Outer islands will be reset every 3 months. The Staff Team is not responsible for any builds or items lost from the End pruning.
 11. Flying TNT dupers are not allowed. Stationary TNT dupers are permitted for small farms. Excessive or large TNT duping farms are not permitted.
 12. Pranks done in fun, among friends are permitted, but genuine griefing will not be tolerated.
+13. If you are inactive for over 90 days (3 months), your claim will exprire.
+
+
+## B.2 Mixed Specific
+1. Rule #1 here.
 
 # C. Forum Guidelines
 1. Do not make posts or topics meant to insult, harrass, or provoke other people or groups. Do not promote or encourage others to make these posts either.
