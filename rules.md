@@ -1,4 +1,4 @@
-Last Modified: 06 of August 2020
+Last Modified: 06th of August 2020
 
 # A. Network Global Guidelines
 1. Maintain a casual and positive atmosphere at all times. Be respectful of all players. Harassment and bullying are strictly not allowed. Hate speech, bigotry, racism and sexism will not be tolerated.
@@ -6,23 +6,46 @@ Last Modified: 06 of August 2020
 3. Scamming (the act of stealing through deception or trickery) is not allowed and will not be tolerated.
 4. Swearing/Cursing, rudeness and harassment will not be tolerated.
 5. Do not spam, or flood the chat in a way that ruins others experiences.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.A Spamming is sending multiple messages in a short time, repeatedly sending the same message, or sending one or more excessively long messages.
-6. Follow the directions given by any Staff Member.
-7. Do not lie to a staff member [Exodus 20:16]. If you believe a Staff Member is abusing their power through wrongful punishments or other methods, please email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> and provide any evidence or details you possess regarding the staff member.
-8. Do not intentionally take advantage of server exploits that give you an advantage of other players. We highly encourage you to submit a ticket on the issue tracker, http://www.craftingforchrist.net/issues, with details regarding the potential Network exploit.
-9. You are not allowed to post links or content that may lead to or contain NSFW or inappropriate websites/content.
-10. You are not allowed to advertise, post server addresses or Discord server links that are not affiliated with Crafting For Christ.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="badge badge-warning">Note</span> Spamming is sending multiple messages in a short time, repeatedly sending the same message, or sending one or more excessively long messages.
+6. Players may only press one button, and having it register as one click.
+7. Follow the directions given by any Staff Member.
+8. Do not lie to a staff member [Exodus 20:16]. If you believe a Staff Member is abusing their power through wrongful punishments or other methods, please email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> and provide any evidence or details you possess regarding the staff member.
+9. Do not intentionally take advantage of Network exploits that give you an advantage of other players. We highly encourage you to submit a ticket on the issue tracker, http://www.craftingforchrist.net/issues, with details regarding the potential Network exploit.
+10. You are not allowed to post links or content that may lead to or contain NSFW or inappropriate websites/content.
+11. You are not allowed to advertise, post server addresses or Discord server links that are not affiliated with Crafting For Christ.
 <span class="badge badge-warning">Note</span> If you are concerned about links that may constitute advertising, please ask a staff member before posting.
-11. DDOS or DOS threats/attacks are not permitted and will not be tolerated.<br>
+12. DDOS or DOS threats/attacks are not permitted and will not be tolerated.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11.1 On Discord, DDOS (Distributed Denial-of-Service) threats is treated as a Terms of Service violation.
-12. Ban Evading is strictly forbidden.
-13. Do not impersonate any Staff members.
-14. Your username, skin, avatar, or profile picture must be appropriate for all ages. Any objectionable username, skin, avatar, or profile picture that does not feel appropriate or gives the impression of something inappropriate will not be tolerated.
+13. Ban Evading is strictly forbidden.
+14. Do not impersonate any Staff members.
+15. Your username, skin, avatar, or profile picture must be appropriate for all ages. Any objectionable username, skin, avatar, or profile picture that does not feel appropriate or gives the impression of something inappropriate will not be tolerated.
 
 # B. Global Minecraft Guidelines
-1. Any client modifications or external tools that give you a severe, game altering advantage over vanilla Minecraft users is not allowed.<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.A Consult a Staff member if you are unsure whether a client modification is allowed or not.
-2. Do not accuse others of cheating in chat, private message an online Staff Member in game or on Discord.
+1. Any client modifications or external tools that give you a severe, game altering advantage over vanilla Minecraft users is not allowed.
+2. The following mods are explicitly permitted:<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Optifine<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Lithium, Phosphor & Sodium<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ ArmorStatusHUD / StatusEffectHUD<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ LabyMod & 5zig<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Toggle Sneak / Sprint<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ VoxelMap, or other Minimaps without radar and cave mapping<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Badlion Client & Lunar Client
+3. The following mods are explicitly prohibited:<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Inventory Sorters (only on Mixed)<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Mods that expose or enlarge the name-tags of players (only on Mixed)<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Automatic tool selectors (only on Mixed)<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Minimaps that show entity positions, or show caves/underground. (only on Mixed)<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ X-rays<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Auto-hitters/Autoclickers<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Aimbots<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Fly mods<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Damage/Health Indicator (only on Mixed)<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ SmartMoving (only on Mixed)<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Optifine<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Optifine<br>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="badge badge-warning">Note</span> For any other modifications, consult a Staff member or email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> if you are unsure whether a client modification is allowed or not.
+4. Do not accuse others of cheating in chat, private message an online Staff Member in game or on Discord.
 
 ## B.1 Survival Specific
 1. No obscene/questionable language, names, or builds.<br>
