@@ -16,7 +16,7 @@ Last Modified: 06th of August 2020
 <small><span class="badge badge-warning">Note</span> If you are concerned about links that may constitute advertising, please ask a staff member before posting.
 12. DDOS or DOS threats/attacks are not permitted and will not be tolerated.</small><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11.1 On Discord, DDOS (Distributed Denial-of-Service) threats is treated as a Terms of Service violation.
-13. Ban Evading is strictly forbidden.
+13. Evading a punishment by connecting with another account is not allowed, and may result in all your accounts and IP address being banned.
 14. Do not impersonate any Staff members.
 15. Your username, skin, avatar, or profile picture must be appropriate for all ages. Any objectionable username, skin, avatar, or profile picture that does not feel appropriate or gives the impression of something inappropriate will not be tolerated.
 
