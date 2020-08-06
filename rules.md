@@ -1,4 +1,4 @@
-Last Modified: 3rd of March 2020
+Last Modified: 06 of August 2020
 
 # A. Network Global Guidelines
 1. Maintain a casual and positive atmosphere at all times. Be respectful of all players. Harassment and bullying are strictly not allowed. Hate speech, bigotry, racism and sexism will not be tolerated.
@@ -9,23 +9,24 @@ Last Modified: 3rd of March 2020
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5.A Spamming is sending multiple messages in a short time, repeatedly sending the same message, or sending one or more excessively long messages.
 6. Follow the directions given by any Staff Member.
 7. Do not lie to a staff member [Exodus 20:16]. If you believe a Staff Member is abusing their power through wrongful punishments or other methods, please email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> and provide any evidence or details you possess regarding the staff member.
-8. Do not intentionally take advantage of server exploits that give you an advantage of other players. We highly encourage you to submit a ticket on the issue tracker, http://www.craftingforchrist.net/issues, with details regarding the potential server exploit.
+8. Do not intentionally take advantage of server exploits that give you an advantage of other players. We highly encourage you to submit a ticket on the issue tracker, http://www.craftingforchrist.net/issues, with details regarding the potential Network exploit.
 9. You are not allowed to post links or content that may lead to or contain NSFW or inappropriate websites/content.
 10. You are not allowed to advertise, post server addresses or Discord server links that are not affiliated with Crafting For Christ.
+<span class="badge badge-warning">Note</span> If you are concerned about links that may constitute advertising, please ask a staff member before posting.
 11. DDOS or DOS threats/attacks are not permitted and will not be tolerated.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11.1 On Discord, DDOS threats is treated as a ToS violation.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11.1 On Discord, DDOS (Distributed Denial-of-Service) threats is treated as a Terms of Service violation.
 12. Ban Evading is strictly forbidden.
-13. Do not impersonate any Staff Members.
+13. Do not impersonate any Staff members.
 14. Your username, skin, avatar, or profile picture must be appropriate for all ages. Any objectionable username, skin, avatar, or profile picture that does not feel appropriate or gives the impression of something inappropriate will not be tolerated.
 
 # B. Global Minecraft Guidelines
-1. Any client modifications that give you a severe, game altering advantage over other Minecraft players is not allowed.<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.A Consult a staff member if you are unsure whether a client modification is allowed or not.
+1. Any client modifications or external tools that give you a severe, game altering advantage over vanilla Minecraft users is not allowed.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.A Consult a Staff member if you are unsure whether a client modification is allowed or not.
 2. Do not accuse others of cheating in chat, private message an online Staff Member in game or on Discord.
 
 ## B.1 Survival Specific
 1. No obscene/questionable language, names, or builds.<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.A If you wish to create a build that you are either unsure of, or if it would be considered inappropriate, but you believe the context justifies it, then consult with the staff team for confirmation.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="badge badge-warning">Note</span> If you wish to create a build that you are either unsure of, or if it would be considered inappropriate, but you believe the context justifies it, then consult with a member of our Staff team for confirmation.
 2. No PVP unless weapons are drawn by all parties. [Matthew 10:34, Ephesians 6:17, Luke 22:36]
 3. Stealing from another player in any way, shape, or form will not be tolerated, [Exodus 20:15, Exodus 22:2-4] 
 4. If you’re building near someone else's base, please contact them first to make sure they don’t have plans for the area. Clearly mark your planned builds.
@@ -41,7 +42,9 @@ Last Modified: 3rd of March 2020
 
 
 ## B.2 Mixed Specific
-1. Rule #1 here.
+1. Players may not abuse glitches, like placing blocks in areas restricted by the plugin to walk on, also known as "block glitching".
+2. Observers should never give tactical information to players or intentionally disrupt game play.
+3. Maps may have rules that apply only to that specific map. They can be read under `/map`.
 
 # C. Forum Guidelines
 1. Do not make posts or topics meant to insult, harrass, or provoke other people or groups. Do not promote or encourage others to make these posts either.
