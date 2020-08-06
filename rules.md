@@ -56,7 +56,7 @@ Last Modified: 06th of August 2020
 7. Producing excessive entities to the point of causing lag will result in the destruction of the offending entities (and farms).
 8. Spawn chunks are out of bounds for building bases.
 9. Enderman, Gold and Iron farms are not to be built until The End is free.
-10. The End Outer islands will be reset every 3 months. The Staff Team is not responsible for any builds or items lost from the End pruning.
+10. The End Outer islands will be reset every 3 months. The Staff team is not responsible for any builds or items lost from the End pruning.
 11. Flying TNT dupers are not allowed. Stationary TNT dupers are permitted for small farms. Excessive or large TNT duping farms are not permitted.
 12. Pranks done in fun, among friends are permitted, but genuine griefing will not be tolerated.
 13. If you are inactive for over 90 days (3 months), your claim will exprire.
@@ -65,9 +65,8 @@ Last Modified: 06th of August 2020
 1. Players may not abuse glitches, like placing blocks in areas restricted by the plugin to walk on, also known as "block glitching".
 2. Observers should never give tactical information to players or intentionally disrupt game play.
 3. Maps may have rules that apply only to that specific map. They can be read under `/map`.
- ### B.2.1 Team Griefing
- B.2.A. Team griefing is prohibited, and is defined as any action that harms your own team.
- B.2.B. Common indicators of team griefing:
+4. Team griefing is prohibited, and is defined as any action that harms your own team.<br>
+ 4.1 Common indicators of team griefing:
   - Placing and/or setting off TNT in your base (for non defensive purposes).
   - Destroying your own team's chests or workbenches.
   - Teamkilling by spleefing or blowing them up with TNT.
