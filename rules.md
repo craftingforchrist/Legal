@@ -13,8 +13,8 @@ Last Modified: 06th of August 2020
 9. Do not intentionally take advantage of Network exploits that give you an advantage of other players. We highly encourage you to submit a ticket on the issue tracker, http://www.craftingforchrist.net/issues, with details regarding the potential Network exploit.
 10. You are not allowed to post links or content that may lead to or contain NSFW or inappropriate websites/content.
 11. You are not allowed to advertise, post server addresses or Discord server links that are not affiliated with Crafting For Christ.
-<span class="badge badge-warning">Note</span> If you are concerned about links that may constitute advertising, please ask a staff member before posting.
-12. DDOS or DOS threats/attacks are not permitted and will not be tolerated.<br>
+<small><span class="badge badge-warning">Note</span> If you are concerned about links that may constitute advertising, please ask a staff member before posting.
+12. DDOS or DOS threats/attacks are not permitted and will not be tolerated.</small><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11.1 On Discord, DDOS (Distributed Denial-of-Service) threats is treated as a Terms of Service violation.
 13. Ban Evading is strictly forbidden.
 14. Do not impersonate any Staff members.
@@ -41,10 +41,8 @@ Last Modified: 06th of August 2020
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Fly mods<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Damage/Health Indicator (only on Mixed)<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ SmartMoving (only on Mixed)<br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Optifine<br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Optifine<br>
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="badge badge-warning">Note</span> For any other modifications, consult a Staff member or email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> if you are unsure whether a client modification is allowed or not.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><span class="badge badge-warning">Note</span> For any other modifications, consult a Staff member or email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> if you are unsure whether a client modification is allowed or not.</small>
 4. Do not accuse others of cheating in chat, private message an online Staff Member in game or on Discord.
 
 ## B.1 Survival Specific
@@ -63,11 +61,17 @@ Last Modified: 06th of August 2020
 12. Pranks done in fun, among friends are permitted, but genuine griefing will not be tolerated.
 13. If you are inactive for over 90 days (3 months), your claim will exprire.
 
-
 ## B.2 Mixed Specific
 1. Players may not abuse glitches, like placing blocks in areas restricted by the plugin to walk on, also known as "block glitching".
 2. Observers should never give tactical information to players or intentionally disrupt game play.
 3. Maps may have rules that apply only to that specific map. They can be read under `/map`.
+ ### B.2.1 Team Griefing
+ B.2.A. Team griefing is prohibited, and is defined as any action that harms your own team.
+ B.2.B. Common indicators of team griefing:
+  - Placing and/or setting off TNT in your base (for non defensive purposes).
+  - Destroying your own team's chests or workbenches.
+  - Teamkilling by spleefing or blowing them up with TNT.
+  - Aiding or working together with a member of the other team.
 
 # C. Forum Guidelines
 1. Do not make posts or topics meant to insult, harrass, or provoke other people or groups. Do not promote or encourage others to make these posts either.
