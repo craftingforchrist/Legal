@@ -15,7 +15,7 @@ Last Modified: 07th of August 2020
 11. You are not allowed to advertise, post server addresses or Discord server links that are not affiliated with Crafting For Christ.
 <small><span class="badge badge-warning">Note</span> If you are concerned about links that may constitute advertising, please ask a staff member before posting.
 12. DDOS or DOS threats/attacks are not permitted and will not be tolerated.</small><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;11.1 On Discord, DDOS (Distributed Denial-of-Service) threats is treated as a Terms of Service violation.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12.1 On Discord, DDOS (Distributed Denial-of-Service) threats is treated as a Terms of Service violation.
 13. Evading a punishment by connecting with another account is not allowed, and may result in all your accounts and IP address being banned.
 14. Do not impersonate any Staff members.
 15. Your username, skin, avatar, or profile picture must be appropriate for all ages. Any objectionable username, skin, avatar, or profile picture that does not feel appropriate or gives the impression of something inappropriate will not be tolerated.
@@ -37,7 +37,7 @@ Last Modified: 07th of August 2020
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Fly mods
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><span class="badge badge-warning">Note</span> For any other modifications, consult a Staff member or email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> if you are unsure whether a client modification is allowed or not.</small><br>
-4. Do not accuse others of cheating in chat, private message an online Staff Member in game or on Discord.
+2. Do not accuse others of cheating in chat, private message an online Staff Member in game or on Discord.
 
 ## B.1 Survival Specific
 1. No obscene/questionable language, names, or builds.<br>
@@ -60,15 +60,15 @@ Last Modified: 07th of August 2020
 2. Observers should never give tactical information to players or intentionally disrupt game play.
 3. Maps may have rules that apply only to that specific map. They can be read under `/map`.
 4. Any client modifications or external tools that give you a severe, game altering advantage over vanilla Minecraft users is not allowed.<br>
-4.A. The following mods are explicitly permitted on Mixed:<br>
+5.A. The following mods are explicitly permitted on Mixed:<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Inventory Sorters<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Mods that expose or enlarge the name-tags of players<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Automatic tool selectors<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Minimaps that show entity positions, or show caves/underground.<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Damage/Health Indicator<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ SmartMoving<br>
-5. Team griefing is prohibited, and is defined as any action that harms your own team.<br>
- 5.1 Common indicators of team griefing:
+6. Team griefing is prohibited, and is defined as any action that harms your own team.<br>
+ 6.1 Common indicators of team griefing:
    - Placing and/or setting off TNT in your base (for non defensive purposes).
    - Destroying your own team's chests or workbenches.
    - Teamkilling by spleefing or blowing them up with TNT.
