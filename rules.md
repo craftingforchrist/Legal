@@ -1,4 +1,4 @@
-Last Modified: 06th of August 2020
+Last Modified: 07th of August 2020
 
 # A. Network Global Guidelines
 1. Maintain a casual and positive atmosphere at all times. Be respectful of all players. Harassment and bullying are strictly not allowed. Hate speech, bigotry, racism and sexism will not be tolerated.
@@ -22,27 +22,21 @@ Last Modified: 06th of August 2020
 
 # B. Global Minecraft Guidelines
 1. Any client modifications or external tools that give you a severe, game altering advantage over vanilla Minecraft users is not allowed.
-2. The following mods are explicitly permitted:<br>
+1.A. The following mods are explicitly permitted:<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Optifine<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Lithium, Phosphor & Sodium<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ ArmorStatusHUD / StatusEffectHUD<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ LabyMod & 5zig<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Toggle Sneak / Sprint<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ VoxelMap, or other Minimaps without radar and cave mapping<br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Badlion Client & Lunar Client
-3. The following mods are explicitly prohibited:<br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Inventory Sorters (only on Mixed)<br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Mods that expose or enlarge the name-tags of players (only on Mixed)<br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Automatic tool selectors (only on Mixed)<br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Minimaps that show entity positions, or show caves/underground. (only on Mixed)<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Badlion Client & Lunar Client<br>
+1.B. The following mods are explicitly prohibited on all Servers:<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ X-rays<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Auto-hitters/Autoclickers<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Aimbots<br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Fly mods<br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Damage/Health Indicator (only on Mixed)<br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ SmartMoving (only on Mixed)<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Fly mods
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><span class="badge badge-warning">Note</span> For any other modifications, consult a Staff member or email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> if you are unsure whether a client modification is allowed or not.</small>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><span class="badge badge-warning">Note</span> For any other modifications, consult a Staff member or email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> if you are unsure whether a client modification is allowed or not.</small><br>
 4. Do not accuse others of cheating in chat, private message an online Staff Member in game or on Discord.
 
 ## B.1 Survival Specific
@@ -65,12 +59,20 @@ Last Modified: 06th of August 2020
 1. Players may not abuse glitches, like placing blocks in areas restricted by the plugin to walk on, also known as "block glitching".
 2. Observers should never give tactical information to players or intentionally disrupt game play.
 3. Maps may have rules that apply only to that specific map. They can be read under `/map`.
-4. Team griefing is prohibited, and is defined as any action that harms your own team.<br>
- 4.1 Common indicators of team griefing:
-  - Placing and/or setting off TNT in your base (for non defensive purposes).
-  - Destroying your own team's chests or workbenches.
-  - Teamkilling by spleefing or blowing them up with TNT.
-  - Aiding or working together with a member of the other team.
+4. Any client modifications or external tools that give you a severe, game altering advantage over vanilla Minecraft users is not allowed.<br>
+4.A. The following mods are explicitly permitted on Mixed:<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Inventory Sorters<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Mods that expose or enlarge the name-tags of players<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Automatic tool selectors<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Minimaps that show entity positions, or show caves/underground.<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Damage/Health Indicator<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ SmartMoving<br>
+5. Team griefing is prohibited, and is defined as any action that harms your own team.<br>
+ 5.1 Common indicators of team griefing:
+   - Placing and/or setting off TNT in your base (for non defensive purposes).
+   - Destroying your own team's chests or workbenches.
+   - Teamkilling by spleefing or blowing them up with TNT.
+   - Aiding or working together with a member of the other team.
 
 # C. Forum Guidelines
 1. Do not make posts or topics meant to insult, harrass, or provoke other people or groups. Do not promote or encourage others to make these posts either.
