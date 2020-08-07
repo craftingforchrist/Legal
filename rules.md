@@ -21,7 +21,7 @@ Last Modified: 07th of August 2020
 15. Your username, skin, avatar, or profile picture must be appropriate for all ages. Any objectionable username, skin, avatar, or profile picture that does not feel appropriate or gives the impression of something inappropriate will not be tolerated.
 
 # B. Global Minecraft Guidelines
-1. Any client modifications or external tools that give you a severe, game altering advantage over vanilla Minecraft users is not allowed.
+1. Any client modifications or external tools that give you a severe, game altering advantage over vanilla Minecraft users is not allowed.<br>
 1.A. The following mods are explicitly permitted:<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Optifine<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Lithium, Phosphor & Sodium<br>
