@@ -60,13 +60,13 @@ Last Modified: 07th of August 2020
 2. Observers should never give tactical information to players or intentionally disrupt game play.
 3. Maps may have rules that apply only to that specific map. They can be read under `/map`.
 4. Any client modifications or external tools that give you a severe, game altering advantage over vanilla Minecraft users is not allowed.<br>
- 4.A. The following mods are explicitly permitted on Mixed:<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Inventory Sorters<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Mods that expose or enlarge the name-tags of players<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Automatic tool selectors<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Minimaps that show entity positions, or show caves/underground.<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Damage/Health Indicator<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ SmartMoving<br>
+ 4.A. The following mods are explicitly not permitted on Mixed:<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Inventory Sorters<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Mods that expose or enlarge the name-tags of players<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Automatic tool selectors<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Minimaps that show entity positions, or show caves/underground.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Damage/Health Indicator<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ SmartMoving<br>
 5. Team griefing is prohibited, and is defined as any action that harms your own team.<br>
  5.1 Common indicators of team griefing:
    - Placing and/or setting off TNT in your base (for non defensive purposes).
