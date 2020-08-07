@@ -95,7 +95,7 @@ Last Modified: 06th of August 2020
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.E. Harrassing, insulting, provoking, upsetting, and/or threatening other users in the voice channel is strictly prohibited.
 
 # E. Other
-1. These rules are subject to change without notice. Players are responsible for keeping up with rule changes, it is up to you to keep checking the rule page.
+1. These rules are subject to change without notice. Players are responsible for keeping up with rule changes, it is up to the player to keep checking the rule page.
 2. There is a one week grace period for rule changes.
 3. The Senior Staff Team has the right to ban or unban any player from any services for any reason without notice.
 4. If you notice any player is in violation of these rules, obtain relevant and sufficient evidence and contact a Staff Member preferably on Discord. Do not take to the community for public blaming, flaming and shaming.
