@@ -2,7 +2,7 @@ Last Modified: 07th of August 2020
 
 # A. Network Global Guidelines
 1. Maintain a casual and positive atmosphere at all times. Be respectful of all players. Harassment and bullying are strictly not allowed. Hate speech, bigotry, racism and sexism will not be tolerated.
-2. Be respectful to all community members and Staff.
+2. Be respectful to all community members and those of the Staff Team.
 3. Scamming (the act of stealing through deception or trickery) is not allowed and will not be tolerated.
 4. Swearing/Cursing, rudeness and harassment will not be tolerated.
 5. Do not spam, or flood the chat in a way that ruins others experiences.<br>
