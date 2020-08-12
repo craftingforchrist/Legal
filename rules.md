@@ -27,14 +27,14 @@ Last Modified: 12th of August 2020
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Lithium, Phosphor & Sodium<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ ArmorStatusHUD / StatusEffectHUD<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ LabyMod & 5zig<br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Toggle Sneak / Sprint<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ VoxelMap, or other Minimaps without radar and cave mapping<br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Badlion Client & Lunar Client
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Badlion Client & Lunar Client<br>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Schematica / Litematica<br>
 3.B. The following mods are explicitly prohibited on all Servers:<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ X-rays<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Auto-hitters/Autoclickers<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Aimbots<br>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Fly mods
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Fly modifications
 
 <small><b>Note:</b> For any other modifications, consult a Staff member or email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> if you are unsure whether a client modification is allowed or not.</small>
 4. Do not accuse others of cheating in chat, private message an online Staff Member in game or on Discord.
@@ -64,9 +64,10 @@ Last Modified: 12th of August 2020
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Inventory Sorters<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Mods that expose or enlarge the name-tags of players<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Automatic tool selectors<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Minimaps that show entity positions, or show caves/underground.<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Damage/Health Indicator<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ SmartMoving<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Minimaps that show entity positions, or show caves / underground.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Damage / Health Indicator<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ SmartMoving
+  
 5. Team griefing is prohibited, and is defined as any action that harms your own team.<br>
  5.1 Common indicators of team griefing:
    - Placing and/or setting off TNT in your base (for non defensive purposes).
