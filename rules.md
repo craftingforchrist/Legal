@@ -6,7 +6,7 @@ Last Modified: 12th of August 2020
 3. Scamming (the act of stealing through deception or trickery) is not allowed and will not be tolerated.
 4. Swearing/Cursing, rudeness and harassment will not be tolerated.
 5. Do not spam, or flood the chat in a way that ruins others experiences.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><b>Note:</b> Spamming is sending multiple messages in a short time, repeatedly sending the same message, or sending one or more excessively long messages.</small>
+<small><b>Note:</b> Spamming is sending multiple messages in a short time, repeatedly sending the same message, or sending one or more excessively long messages.</small>
 6. Players may only press one button, and having it register as one click.
 7. Follow the directions given by any Staff Member.
 8. Do not lie to a staff member [Exodus 20:16]. If you believe a Staff Member is abusing their power through wrongful punishments or other methods, please email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> and provide any evidence or details you possess regarding the staff member.
@@ -15,14 +15,14 @@ Last Modified: 12th of August 2020
 11. You are not allowed to advertise, post server addresses or Discord server links that are not affiliated with Crafting For Christ.<br>
 <small><b>Note:</b> If you are concerned about links that may constitute advertising, please ask a Staff Member before posting.</small>
 12. DDOS or DOS threats/attacks are not permitted and will not be tolerated.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;12.1 On Discord, DDOS (Distributed Denial-of-Service) threats is treated as a Terms of Service violation.
+<small><b>Note:</b> On Discord, DDOS (Distributed Denial-of-Service) threats is treated as a Terms of Service violation.</small>
 13. Evading a punishment by connecting with another account is not allowed, and may result in all your accounts and IP address being banned.
 14. Do not impersonate any Staff members.
 15. Your username, skin, avatar, or profile picture must be appropriate for all ages. Any objectionable username, skin, avatar, or profile picture that does not feel appropriate or gives the impression of something inappropriate will not be tolerated.
 
 # B. Global Minecraft Guidelines
 1. Any client modifications or external tools that give you a severe, game altering advantage over vanilla Minecraft users is not allowed.
-1.A. The following mods are explicitly permitted:<br>
+2.A. The following mods are explicitly permitted:<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Optifine<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Lithium, Phosphor & Sodium<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ ArmorStatusHUD / StatusEffectHUD<br>
@@ -30,18 +30,18 @@ Last Modified: 12th of August 2020
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Toggle Sneak / Sprint<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ VoxelMap, or other Minimaps without radar and cave mapping<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Badlion Client & Lunar Client
-1.B. The following mods are explicitly prohibited on all Servers:<br>
+3.B. The following mods are explicitly prohibited on all Servers:<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ X-rays<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Auto-hitters/Autoclickers<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Aimbots<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Fly mods
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><b>Note:</b> For any other modifications, consult a Staff member or email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> if you are unsure whether a client modification is allowed or not.</small>
-2. Do not accuse others of cheating in chat, private message an online Staff Member in game or on Discord.
+<small><b>Note:</b> For any other modifications, consult a Staff member or email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> if you are unsure whether a client modification is allowed or not.</small>
+4. Do not accuse others of cheating in chat, private message an online Staff Member in game or on Discord.
 
 ## B.1 Survival Specific
 1. No obscene/questionable language, names, or builds.<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<small><b>Note:</b> If you wish to create a build that you are either unsure of, or if it would be considered inappropriate, but you believe the context justifies it, then consult with a member of our Staff team for confirmation.</small>
+<small><b>Note:</b> If you wish to create a build that you are either unsure of, or if it would be considered inappropriate, but you believe the context justifies it, then consult with a member of our Staff team for confirmation.</small>
 2. No PVP unless weapons are drawn by all parties. [Matthew 10:34, Ephesians 6:17, Luke 22:36]
 3. Stealing from another player in any way, shape, or form will not be tolerated, [Exodus 20:15, Exodus 22:2-4] 
 4. If you’re building near someone else's base, please contact them first to make sure they don’t have plans for the area. Clearly mark your planned builds.
