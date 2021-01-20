@@ -12,7 +12,7 @@ Last Modified: 12th of August 2020
 8. Do not lie to a staff member [Exodus 20:16]. If you believe a Staff Member is abusing their power through wrongful punishments or other methods, please email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> and provide any evidence or details you possess regarding the staff member.
 9. Do not intentionally take advantage of Network exploits that give you an advantage of other players. We highly encourage you to submit a ticket on the issue tracker, http://www.craftingforchrist.net/issues, with details regarding the potential Network exploit.
 10. You are not allowed to post links or content that may lead to or contain NSFW or inappropriate websites/content.
-11. You are not allowed to advertise, post server addresses or Discord server links that are not affiliated with Crafting For Christ.<br>
+11. You are not allowed to advertise, post server addresses or Discord server links that are not affiliated with Crafting For Christ. Encouraging other users in any way to join a platform not affiliated with Crafting For Christ is prohbited.<br>
 <small><b>Note:</b> If you are concerned about links that may constitute advertising, please ask a Staff Member before posting.</small>
 12. DDOS or DOS threats/attacks are not permitted and will not be tolerated.<br>
 <small><b>Note:</b> On Discord, DDOS (Distributed Denial-of-Service) threats is treated as a Terms of Service violation.</small>
