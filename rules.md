@@ -36,7 +36,7 @@ Last Modified: 20th of January 2021
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Aimbots<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Fly modifications
 
-<small><b>Note:</b> For any other modifications, consult a Staff member or email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> if you are unsure whether a client modification is allowed or not.</small>
+<small><b>Note:</b> For any other modifications, consult a Staff member or email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> if you are unsure whether a client modification is allowed or not.</small><br/>
 4. Do not accuse others of cheating in chat, private message an online Staff Member in game or on Discord.
 
 ## B.1 Survival Specific
