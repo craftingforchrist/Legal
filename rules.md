@@ -1,4 +1,4 @@
-Last Modified: 20th of January 2021
+Last Modified: 21st May 2021
 
 # A. Network Global Guidelines
 1. Maintain a casual and positive atmosphere at all times. Be respectful of all players. Harassment and bullying are strictly not allowed. Hate speech, bigotry, racism and sexism will not be tolerated.
@@ -22,7 +22,8 @@ Last Modified: 20th of January 2021
 
 # B. Global Minecraft Guidelines
 1. Any client modifications or external tools that give you a severe, game altering advantage over vanilla Minecraft users is not allowed.
-2.A. The following mods are explicitly permitted:<br>
+2. VPN client use is prohibited on the Network.
+3.A. The following mods are explicitly permitted:<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Optifine<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Lithium, Phosphor & Sodium<br>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ ArmorStatusHUD / StatusEffectHUD<br>
