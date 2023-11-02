@@ -40,7 +40,6 @@ Last Modified: 21st May 2021
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ ArmorStatusHUD / StatusEffectHUD<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ LabyMod & 5zig<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Toggle Sneak / Sprint<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ VoxelMap, or other Minimaps **without radar and cave mapping**<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Lunar Client<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Badlion Client<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Cosmic Client<br>
@@ -50,7 +49,8 @@ Last Modified: 21st May 2021
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ X-rays<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Auto-hitters/Autoclickers<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Aimbots<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Fly mods
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Fly mods<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Minimaps that show entity positions, or show caves / underground.
 
 > Note: For any other modifications, consult a Staff member or email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> if you are unsure whether a client modification is allowed or not.
 
@@ -74,6 +74,7 @@ Last Modified: 21st May 2021
 11. Flying TNT dupers are not allowed. Stationary TNT dupers are permitted for small farms. Excessive or large TNT duping farms are not permitted.
 12. Pranks done in fun, among friends are permitted, but genuine griefing will not be tolerated.
 13. If you are inactive for over 90 days (3 months), your claim will exprire.
+14. Senior staff may remove players who are AFK for an extended period to prevent lag.
 
 ## B.2 Mixed Specific
 1. Players may not abuse glitches, like placing blocks in areas restricted by the plugin to walk on, also known as "block glitching".
