@@ -1,4 +1,4 @@
-Last Modified: 21st May 2021
+Last Modified: 3rd November 2023
 
 # A. Network Global Guidelines
 > These rules apply to all Crafting For Christ services.
@@ -20,11 +20,11 @@ Last Modified: 21st May 2021
 
 > Note: If you are concerned about links that may constitute advertising, please ask a Staff Member before posting.
 
-12. DDOS or DOS threats/attacks are not permitted and will not be tolerated.<br>
+14. DDOS or DOS threats/attacks are not permitted and will not be tolerated.<br>
 > Note: On Discord, DDOS (Distributed Denial-of-Service) threats is treated as a Terms of Service violation.
-13. Evading a punishment by connecting with another account is not allowed, and may result in all your accounts and IP address being banned.
-14. Impersonating other users and staff members is prohibited. If you believe someone is impersonating you, contact a staff member.
-15. Your username, skin, avatar, or profile picture must be appropriate for all ages. Any objectionable username, skin, avatar, or profile picture that does not feel appropriate or gives the impression of something inappropriate will not be tolerated.
+15. Evading a punishment by connecting with another account is not allowed, and may result in all your accounts and IP address being banned.
+16. Impersonating other users and staff members is prohibited. If you believe someone is impersonating you, contact a staff member.
+17. Your username, skin, avatar, or profile picture must be appropriate for all ages. Any objectionable username, skin, avatar, or profile picture that does not feel appropriate or gives the impression of something inappropriate will not be tolerated.
 
 # B. Global Minecraft Guidelines
 > These rules apply to all Crafting For Christ Minecraft Services.
@@ -54,8 +54,8 @@ Last Modified: 21st May 2021
 
 > Note: For any other modifications, consult a Staff member or email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> if you are unsure whether a client modification is allowed or not.
 
-4. Don't accuse other players of cheating in chat. If you think someone is cheating, use the `/report` command, private message an online Staff Member in game or on Discord.
-5. If you have an inappropriate username or skin, you will be banned until they have been changed.
+6. Don't accuse other players of cheating in chat. If you think someone is cheating, use the `/report` command, private message an online Staff Member in game or on Discord.
+7. If you have an inappropriate username or skin, you will be banned until they have been changed.
 
 ## B.1 Survival Specific
 > These rules apply to all Crafting For Christ services.
@@ -83,11 +83,11 @@ Last Modified: 21st May 2021
 4. Don't encourage or trick other players into leaving the game or the server.
 5. Spawn camping isn't allowed. You must not directly attack the enemy team's spawn or its exits. This includes using TNT, lava or fire. This rule only applies to DTC, DTM and CTW gamemodes.
 6. Any client modifications or external tools that give you a severe, game altering advantage over vanilla Minecraft users is not allowed.<br>
- 4.A. The following mods are explicitly not permitted on Mixed:<br>
+ 6.A. The following mods are explicitly not permitted on Mixed:<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Inventory Sorters<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Mods that expose or enlarge the name-tags of players<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Automatic tool selectors<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Minimaps that show entity positions, or show caves / underground.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Minimaps<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Damage / Health Indicator<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ SmartMoving
 
@@ -95,7 +95,7 @@ Last Modified: 21st May 2021
   
 ### B.3 Team Griefing
 1. Team griefing is prohibited, and is defined as any action that directly harms your own team.
-2.1 Common indicators of team griefing:
+2. Common indicators of team griefing:
   - Placing and/or setting off TNT in your base (for non defensive purposes).
   - Destroying your own team's chests or workbenches.
   - Teamkilling by spleefing or blowing them up with TNT.
@@ -109,12 +109,12 @@ Last Modified: 21st May 2021
 3. Please be respectful to all players with all different beliefs. While you may not agree with them, you must respect and honour them appropriately.
 5. Any inappropriate links, images, or videos are strictly prohibited.
 6. Stay on-topic within channels. Low quality and non-related content belongs in #off-topic.
-6. Voice Channel Rules:<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.A. No "mic spamming".<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.B. No playing music or videos without consent of the other users in the channel.<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.C. Please respect the wishes of others if they ask you to stop doing something.<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.D. Do not play any inappropriate audio or music.<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;6.E. Harrassing, insulting, provoking, upsetting, and/or threatening other users in the voice channel is strictly prohibited.
+7. Voice Channel Rules:<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.A. No "mic spamming".<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.B. No playing music or videos without consent of the other users in the channel.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.C. Please respect the wishes of others if they ask you to stop doing something.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.D. Do not play any inappropriate audio or music.<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;7.E. Harrassing, insulting, provoking, upsetting, and/or threatening other users in the voice channel is strictly prohibited.
 
 # D. Other
 1. These rules are subject to change without notice. Players are responsible for keeping up with rule changes, it is up to the player to keep checking the rule page.
