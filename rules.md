@@ -30,11 +30,10 @@ Last Modified: 3rd November 2023
 > These rules apply to all Crafting For Christ Minecraft Services.
 
 1. Any client modifications or external tools that give you a severe, game altering advantage over vanilla Minecraft users is not allowed.
-2. Minimaps must not show player or entity positions, and they must not show an underground map. You must not be able to see other players' healths.
-3. VPN client use is prohibited on the Network (unless you have en exception from the Senior Staff Team).
-4. You may not use mods or external tools to save maps.
-5. You're not allowed to cheat, or use mods or external tools which give you an unfair advantage.<br>
-  5.A. The following mods are explicitly permitted:<br>
+2. VPN client use is prohibited on the Network (unless you have en exception from the Senior Staff Team).
+3. You may not use mods or external tools to save maps.
+4. You're not allowed to cheat, or use mods or external tools which give you an unfair advantage.<br>
+  4.A. The following mods are explicitly permitted:<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Optifine<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ CaffeineMC<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ ArmorStatusHUD / StatusEffectHUD<br>
@@ -45,7 +44,7 @@ Last Modified: 3rd November 2023
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Cosmic Client<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ PvPLounge Client<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Schematica / Litematica<br>
-  5.B. The following mods are explicitly prohibited on all Servers:<br>
+  4.B. The following mods are explicitly prohibited on all Servers:<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ X-rays<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Auto-hitters/Autoclickers<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Aimbots<br>
@@ -54,8 +53,8 @@ Last Modified: 3rd November 2023
 
 > Note: For any other modifications, consult a Staff member or email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> if you are unsure whether a client modification is allowed or not.
 
-6. Don't accuse other players of cheating in chat. If you think someone is cheating, use the `/report` command, private message an online Staff Member in game or on Discord.
-7. If you have an inappropriate username or skin, you will be banned until they have been changed.
+5. Don't accuse other players of cheating in chat. If you think someone is cheating, use the `/report` command, private message an online Staff Member in game or on Discord.
+6. If you have an inappropriate username or skin, you will be banned until they have been changed.
 
 ## B.1 Survival Specific
 > These rules apply to all Crafting For Christ services.
