@@ -48,8 +48,7 @@ Last Modified: 3rd November 2023
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ X-rays<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Auto-hitters/Autoclickers<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Aimbots<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Fly mods<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Minimaps that show entity positions, or show caves / underground.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Fly mods
 
 > Note: For any other modifications, consult a Staff member or email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> if you are unsure whether a client modification is allowed or not.
 
@@ -90,7 +89,7 @@ Last Modified: 3rd November 2023
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Damage / Health Indicator<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ SmartMoving
 
-  > Note: For any other modifications, consult a Staff member or email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> if you are unsure whether a client modification is allowed or not.
+> Note: For any other modifications, consult a Staff member or email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> if you are unsure whether a client modification is allowed or not.
   
 ### B.3 Team Griefing
 1. Team griefing is prohibited, and is defined as any action that directly harms your own team.
