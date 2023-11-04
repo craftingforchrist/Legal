@@ -33,7 +33,7 @@ Last Modified: 3rd November 2023
 2. Minimaps must not show player or entity positions, and they must not show an underground map. You must not be able to see other players' healths.
 3. VPN client use is prohibited on the Network (unless you have en exception from the Senior Staff Team).
 4. You may not use mods or external tools to save maps.
-5. You're not allowed to cheat, or use mods or external tools which give you an unfair advantage.
+5. You're not allowed to cheat, or use mods or external tools which give you an unfair advantage.<br>
   5.A. The following mods are explicitly permitted:<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Optifine<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ CaffeineMC<br>
