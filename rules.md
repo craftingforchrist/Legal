@@ -13,7 +13,7 @@ Last Modified: 7th November 2023
 7. Players may only press one button, and having it register as one click.
 8. Follow any directions given by a Crafting For Christ staff member. If you believe a staff member has directed you wrongly, please email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> or submit a ticket via our [Discord](http://www.craftingforchrist.net/discord).
 9. Do not lie to a staff member [Exodus 20:16]. If you believe a Staff Member is abusing their power through wrongful punishments or other methods, please email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> and provide any evidence or details you possess regarding the staff member.
-10. Do not intentionally take advantage of Network exploits that give you an advantage of other players. We highly encourage you to submit a ticket on the issue tracker, [http://www.craftingforchrist.net/issues](http://www.craftingforchrist.net/issues), with details regarding the potential Network exploit.
+10. Do not intentionally take advantage of Network exploits and glitches that give you an advantage of other players. We highly encourage you to submit a ticket on the issue tracker, [http://www.craftingforchrist.net/issues](http://www.craftingforchrist.net/issues), with details regarding the potential Network exploit.
 11. You are not allowed to post links or content that may lead to or contain NSFW or inappropriate websites/content.
 12. You are not allowed to advertise, post server addresses or Discord server links that are not affiliated with Crafting For Christ. Encouraging other users in any way to join a platform not affiliated with Crafting For Christ is prohibited.<br>
 13. Users may not knowingly degrade network resources, which includes unreasonable redstone clocking and excessive TNT explosions, among others.
@@ -32,8 +32,9 @@ Last Modified: 7th November 2023
 1. Any client modifications or external tools that give you a severe, game altering advantage over vanilla Minecraft users is not allowed.
 2. VPN client use is prohibited on the Network (unless you have en exception from the Senior Staff Team).
 3. You may not use mods or external tools to save maps.
-4. You're not allowed to cheat, or use mods or external tools which give you an unfair advantage.<br>
-  4.A. The following mods are explicitly permitted:<br>
+4. Do not intentionally take advantage or abuse glitches on our Minecraft Servers that give you an advantage of other players. We highly encourage you to submit a ticket on the issue tracker, [http://www.craftingforchrist.net/issues](http://www.craftingforchrist.net/issues) or raise a ticket via our Discord [http://www.craftingforchrist.net/discord](http://www.craftingforchrist.net/discord), with details regarding the potential Network exploit.
+5. You're not allowed to cheat, or use mods or external tools which give you an unfair advantage.<br>
+  5.A. The following mods are explicitly permitted:<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Optifine<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ CaffeineMC<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ ArmorStatusHUD / StatusEffectHUD<br>
@@ -44,7 +45,7 @@ Last Modified: 7th November 2023
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Cosmic Client<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ PvPLounge Client<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;✅ Schematica / Litematica<br>
-  4.B. The following mods are explicitly prohibited on all Servers:<br>
+  5.B. The following mods are explicitly prohibited on all Servers:<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ X-rays<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Auto-hitters/Autoclickers<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Aimbots<br>
@@ -52,8 +53,8 @@ Last Modified: 7th November 2023
 
 > Note: For any other modifications, consult a Staff member or email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> if you are unsure whether a client modification is allowed or not.
 
-5. Don't accuse other players of cheating in chat. If you think someone is cheating, use the `/report` command, private message an online Staff Member in game or on Discord.
-6. If you have an inappropriate username or skin, you will be banned until they have been changed.
+6. Don't accuse other players of cheating in chat. If you think someone is cheating, use the `/report` command, private message an online Staff Member in game or on Discord.
+7. If you have an inappropriate username or skin, you will be banned until they have been changed.
 
 ## B.1 Survival Specific
 > These rules apply to all Crafting For Christ services.
