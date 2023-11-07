@@ -69,7 +69,8 @@ Last Modified: 7th November 2023
 7. Producing excessive entities to the point of causing lag will result in the destruction of the offending entities (and farms).
 8. Spawn chunks are out of bounds for building bases.
 9. Enderman, Gold and Iron farms are not to be built until The End is free.
-10. The End Outer islands will be reset every 3 months. The Staff team is not responsible for any builds or items lost from the End pruning.
+10. The End Outer islands will be reset every 3 months.<br>
+> The Staff team is not responsible for any builds or items lost from the End pruning.
 11. Flying TNT dupers are not allowed. Stationary TNT dupers are permitted for small farms. Excessive or large TNT duping farms are not permitted.
 12. Pranks done in fun, among friends are permitted, but genuine griefing will not be tolerated.
 13. If you are inactive for over 90 days (3 months), your claim will exprire.
