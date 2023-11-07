@@ -51,7 +51,7 @@ Last Modified: 7th November 2023
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Aimbots<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Fly mods
 
-> Note: For any other modifications, consult a Staff member or email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> if you are unsure whether a client modification is allowed or not.
+> Note: For any other modifications, open a ticket via our [Discord](http://www.craftingforchrist.net/discord) or email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> if you are unsure whether a client modification is allowed or not.
 
 6. Don't accuse other players of cheating in chat. If you think someone is cheating, use the `/report` command, private message an online Staff Member in game or on Discord.
 7. If you have an inappropriate username or skin, you will be banned until they have been changed.
@@ -91,7 +91,7 @@ Last Modified: 7th November 2023
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Damage / Health Indicator<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ SmartMoving
 
-> Note: For any other modifications, consult a Staff member or email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> if you are unsure whether a client modification is allowed or not.
+> Note: For any other modifications, open a ticket via our [Discord](http://www.craftingforchrist.net/discord) or email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> if you are unsure whether a client modification is allowed or not.
   
 ### B.3 Team Griefing
 1. Team griefing is prohibited, and is defined as any action that directly harms your own team.
