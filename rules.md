@@ -120,4 +120,4 @@ Last Modified: 7th November 2023
 1. These rules are subject to change without notice. Players are responsible for keeping up with rule changes, it is up to the player to keep checking the rule page.
 2. There is a one week grace period for rule changes.
 3. The Senior Staff Team has the right to ban or unban any player from any services for any reason without notice.
-4. If you notice any player is in violation of these rules, obtain relevant and sufficient evidence and contact a Staff Member preferably on Discord. Do not take to the community for public blaming, flaming and shaming.
+4. If you notice any player is in violation of these rules, obtain relevant and sufficient evidence and submit a ticket via our [Discord](http://www.craftingforchrist.net/discord) or email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a>. Do not take to the community for public blaming, flaming and shaming.
