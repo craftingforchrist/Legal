@@ -7,7 +7,7 @@ Last Modified: 3rd November 2023
 2. Harassment, threats, doxxing, bullying, and discrimination targeting protected characteristics will be met with the utmost seriousness. Similarly, hate speech, bigotry, racism, homophobia, and sexism will find no tolerance within our Network.
 3. Be respectful to all community members and those of the Staff Team.
 4. Scamming (the act of stealing through deception or trickery) is not allowed and will not be tolerated.
-5. Swearing/Cursing, rudeness and harassment will not be tolerated.
+5. Swearing/Cursing, rudeness and harassment will not be tolerated [Ephesians 4:29].
 6. Do not spam, or flood the chat in a way that ruins others experiences.<br>
 > Note: Spamming is sending multiple messages in a short time, repeatedly sending the same message, or sending one or more excessively long messages.
 7. Players may only press one button, and having it register as one click.
