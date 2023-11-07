@@ -4,7 +4,7 @@ Last Modified: 3rd November 2023
 > These rules apply to all Crafting For Christ services.
 
 1. Maintain a casual and positive atmosphere at all times.
-2. Harassment, threats, doxxing, bullying and discrimination for protected characteristics will be taken very seriously. Hate speech, bigotry, racism and sexism will not be tolerated.
+2. Harassment, threats, doxxing, bullying, and discrimination targeting protected characteristics will be met with the utmost seriousness. Similarly, hate speech, bigotry, racism, homophobia, and sexism will find no tolerance within our Network.
 3. Be respectful to all community members and those of the Staff Team.
 4. Scamming (the act of stealing through deception or trickery) is not allowed and will not be tolerated.
 5. Swearing/Cursing, rudeness and harassment will not be tolerated.
