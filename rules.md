@@ -24,7 +24,7 @@ Last Modified: 7th November 2023
 > Note: On Discord, DDOS (Distributed Denial-of-Service) threats is treated as a Terms of Service violation.
 15. Evading a punishment by connecting with another account is not allowed, and may result in all your accounts and IP address being banned.
 16. Impersonating other users and staff members is prohibited. If you believe someone is impersonating you, contact a staff member.
-17. Your username, skin, avatar, or profile picture must be appropriate for all ages. Any objectionable username, skin, avatar, or profile picture that does not feel appropriate or gives the impression of something inappropriate will not be tolerated.
+17. Your username, skin, avatar, or profile picture should always remain suitable for all age groups. Any usernames, skins, avatars, or profile pictures that are deemed objectionable, inappropriate, or convey an inappropriate impression will not be permitted. Please also consider the appropriateness of your status and the content within your profile.
 
 # B. Global Minecraft Guidelines
 > These rules apply to all Crafting For Christ Minecraft Services.
