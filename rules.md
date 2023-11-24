@@ -57,7 +57,7 @@ Last Modified: 7th November 2023
 7. If you have an inappropriate username or skin, you will be banned until they have been changed.
 
 ## B.1 Survival Specific
-> These rules apply to all Crafting For Christ services.
+> These rules apply to the Crafting For Christ Survival Server.
 
 1. No obscene/questionable language, names, or builds.<br>
 > Note: If you wish to create a build that you are either unsure of, or if it would be considered inappropriate, but you believe the context justifies it, then consult with a member of our Staff team for confirmation.
@@ -75,8 +75,11 @@ Last Modified: 7th November 2023
 12. Pranks done in fun, among friends are permitted, but genuine griefing will not be tolerated.
 13. If you are inactive for over 90 days (3 months), your claim will exprire.
 14. Senior staff may remove players who are AFK for an extended period to prevent lag.
+15. You must not attempt to uncover or share the world seed.
 
 ## B.2 Mixed Specific
+> These rules apply to the Crafting For Christ Mixed Server.
+
 1. Players may not abuse glitches, like placing blocks in areas restricted by the plugin to walk on, also known as "block glitching".
 2. Don't give out tactical information or try to disrupt the game as an observer. For example, revealing the locations of players.
 3. Maps may have rules that apply only to that specific map. They can be read under `/map`.
