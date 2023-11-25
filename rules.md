@@ -10,12 +10,12 @@ Last Modified: 7th November 2023
 5. Swearing/Cursing, rudeness and harassment will not be tolerated [Ephesians 4:29].
 6. Do not spam, or flood the chat in a way that ruins others experiences.<br>
 > Note: Spamming is sending multiple messages in a short time, repeatedly sending the same message, or sending one or more excessively long messages.
-7. Players may only press one button, and having it register as one click.
+7. Players are restricted to one registered action per button press to deter unfair advantages from PvP-oriented autoclickers or complex scripting for automated actions like crafting or combat.
 8. Follow any directions given by a Crafting For Christ staff member. If you believe a staff member has directed you wrongly, please email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> or submit a ticket via our [Discord](http://www.craftingforchrist.net/discord).
 9. Do not lie to a staff member [Exodus 20:16]. If you believe a Staff Member is abusing their power through wrongful punishments or other methods, please email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> and provide any evidence or details you possess regarding the staff member.
 10. Do not intentionally take advantage of Network exploits and glitches that give you an advantage of other players. We highly encourage you to submit a ticket on the issue tracker, [http://www.craftingforchrist.net/issues](http://www.craftingforchrist.net/issues), with details regarding the potential Network exploit.
 11. You are not allowed to post links or content that may lead to or contain NSFW or inappropriate websites/content.
-12. You are not allowed to advertise, post server addresses or Discord server links that are not affiliated with Crafting For Christ. Encouraging other users in any way to join a platform not affiliated with Crafting For Christ is prohibited.<br>
+12. You are not allowed to advertise, post server addresses or Discord server links that are not affiliated with Crafting For Christ. Encouraging other users in any way to join a platform not affiliated with Crafting For Christ is prohibited.
 13. Users may not knowingly degrade network resources, which includes unreasonable redstone clocking and excessive TNT explosions, among others.
 
 > Note: If you are concerned about links that may constitute advertising, please ask a Staff Member before posting.
