@@ -65,7 +65,7 @@ Last Modified: 7th November 2023
 3. Stealing from another player in any way, shape, or form will not be tolerated, [Exodus 20:15, Exodus 22:2-4] 
 4. If you’re building near someone else's base, please contact them first to make sure they don’t have plans for the area. Clearly mark your planned builds.
 5. Clearly mark the ownership of your base/farm/build.
-6. Small flying machines are allowed for non-farming purposes.
+6. Small flying machines are permitted for purposes such as elevators, complex doors, mob and block transport, storage, and certain minigames. However, flying machines involving moving TNT, primarily used for world-eaters or griefing, are prohibited to prevent potential misuse or grief.
 7. Producing excessive entities to the point of causing lag will result in the destruction of the offending entities (and farms).
 8. Spawn chunks are out of bounds for building bases.
 9. Enderman, Gold and Iron farms are not to be built until The End is free.
