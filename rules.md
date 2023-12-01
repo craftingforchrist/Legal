@@ -31,7 +31,7 @@ Last Modified: 7th November 2023
 
 1. Any client modifications or external tools that give you a severe, game altering advantage over vanilla Minecraft users is not allowed.
 2. VPN client use is prohibited on the Network (unless you have en exception from the Senior Staff Team).
-3. You may not use mods or external tools to save maps.
+3. Usage of mods or external tools to save worlds is generally prohibited; however, map mods, including tools like ReplayMod, are permitted.
 4. Do not intentionally take advantage or abuse glitches on our Minecraft Servers that give you an advantage of other players. We highly encourage you to submit a ticket on the issue tracker, [http://www.craftingforchrist.net/issues](http://www.craftingforchrist.net/issues) or raise a ticket via our Discord [http://www.craftingforchrist.net/discord](http://www.craftingforchrist.net/discord), with details regarding the potential Network exploit.
 5. You're not allowed to cheat, or use mods or external tools which give you an unfair advantage.<br>
   5.A. The following mods are explicitly permitted:<br>
