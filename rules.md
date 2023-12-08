@@ -136,7 +136,9 @@ Last Modified: 2nd of December 2023
   <tbody>
     <tr>
       <td>February 19, 2020</td>
-      <td>* Initial Release of Network Rules.</td>
+      <ul>
+          <li>Initial Release of Network Rules.</li>
+      </ul>
     </tr>
     <tr>
       <td>February 27, 2020</td>
@@ -235,6 +237,7 @@ Last Modified: 2nd of December 2023
           <li>Amend B.1.6 to be more specific about flying machines.</li>
           <li>Amend A.12 to be less strict on linking pastoral care services and online church.</li>
           <li>Amend B.3 to include tools like ReplayMod to record and preview worlds.</li>
+          <li>Add revision history table.</li>
         </ul>
       </td>
     </tr>
