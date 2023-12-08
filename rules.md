@@ -128,80 +128,45 @@ Last Modified: 2nd of December 2023
 ## Revision History
 | Date              | Changes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| February 19, 2020 | *   Initial Release of Network Rules.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| February 27, 2020 | *   Changed A. Community Guidelines to A. Network Global Guidelines.
-    
-*   Reformatted rules in A section and added additional rules.
-    
-*   Changed B. Gameplay Guidelines to B. Global Minecraft Guidelines.
-    
-*   Added rule about client modifications.
-    
-*   Added B.1 Survival Specific with additional rules.
-    
-*   Added rule about bumping along with definition on C. Forum Guidelines.
-    
-*   Amended formatting for D.5 in D. Discord Guidelines.
-    
-*   Amended Rule modification date.
-    
-*   Amended and clarified rules in A. Network Global Guidelines in regards to links, content, advertising and impersonation.                                                                                                                                                                                                                                                                                                                                                                                          |
-| March 3, 2020     | *   General formatting and presentation of rules.
-    
-*   Amended Rule modification date.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
-| March 7, 2020     | *   Amended rule 11 about TNT dupers, stating "Stationary TNT dupers are permitted for small farms. Excessive or large TNT duping farms are not permitted."                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| August 6, 2020    | *   Added B.2 Mixed Specific section
-    
-*   Amended Rule modification date.
-    
-*   Updated wording on several rules and added B.2.1, B.2.2 & B.2.3.
-    
-*   Added permitted and prohibited client modifications to B. Global Minecraft Guidelines.
-    
-*   Added B.2.1 Team Griefing.
-    
-*   Changed A.13 to define what Ban Evading is.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| August 7, 2020    | *   Changed E.1 "you" to "the player".
-    
-*   Added mixed specific client modifications and fixed spacing on multiple rules.
-    
-*   Fixed numbering on multiple rules in multiple sections.
-    
-*   Amended A.2 to include "all community members and those of the Staff Team."                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| August 12, 2020   | *   Made additional formatting changes on rules in general.
-    
-*   Amended Rule modification date.
-    
-*   Removed Toggle Sneak and added Schematica in client modifications.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| January 20, 2021  | *   Update A.11 to "Encouraging other users in any way to join a platform is prohibited"
-    
-*   Amended Rule modification date.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| May 21, 2021      | *   Added a rule about AntiVPN
-    
-*   Amended Rule modification date.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| ???               | *   Amended Rule 2 for specifying "specify that homophobia is prohibited".
-    
-*   Added Ephesians 4:29 reference for A.5 as per the swearing rule.
-    
-*   Change modification date, amend rule A.8 and change hyperlink for rule A.10 as per giving user option to email or submit ticket.
-    
-*   Split glitches rule to Network and Minecraft related rules as per the current rule "Do not intentionally take advantage of Network exploits"
-    
-*   Amended A.17 to include status, and profile contents on Discord.
-    
-*   Change client mods note to include discord to report.
-    
-*   Amended D.4 to include Discord and email to report.
-    
-*   Added rule on discovering/leaking/disclosing the world seed.
-    
-*   Amended A.7 to revise meaning of clicking.
-    
-*   Amend B.1.6 to be more specific about flying machines.
-    
-*   Amend A.12 to more less strict on linking pastoral care services and online church.
-    
-*   Amend B.3 to include tools like ReplayMod to record and preview worlds.
-    
-
-<br><br> |
+| February 19, 2020 | * Initial Release of Network Rules.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| February 27, 2020 | * Changed A. Community Guidelines to A. Network Global Guidelines.
+  * Reformatted rules in A section and added additional rules.
+  * Changed B. Gameplay Guidelines to B. Global Minecraft Guidelines.
+  * Added rule about client modifications.
+  * Added B.1 Survival Specific with additional rules.
+  * Added rule about bumping along with definition on C. Forum Guidelines.
+  * Amended formatting for D.5 in D. Discord Guidelines.
+  * Amended Rule modification date.
+  * Amended and clarified rules in A. Network Global Guidelines in regards to links, content, advertising, and impersonation.                                                                                                                                                                                                                                                                                                                                                                                          |
+| March 3, 2020     | * General formatting and presentation of rules.
+  * Amended Rule modification date.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| March 7, 2020     | * Amended rule 11 about TNT dupers, stating "Stationary TNT dupers are permitted for small farms. Excessive or large TNT duping farms are not permitted."                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| August 6, 2020    | * Added B.2 Mixed Specific section
+  * Amended Rule modification date.
+  * Updated wording on several rules and added B.2.1, B.2.2 & B.2.3.
+  * Added permitted and prohibited client modifications to B. Global Minecraft Guidelines.
+  * Added B.2.1 Team Griefing.
+  * Changed A.13 to define what Ban Evading is.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| August 7, 2020    | * Changed E.1 "you" to "the player".
+  * Added mixed specific client modifications and fixed spacing on multiple rules.
+  * Fixed numbering on multiple rules in multiple sections.
+  * Amended A.2 to include "all community members and those of the Staff Team."                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| August 12, 2020   | * Made additional formatting changes on rules in general.
+  * Amended Rule modification date.
+  * Removed Toggle Sneak and added Schematica in client modifications.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| January 20, 2021  | * Update A.11 to "Encouraging other users in any way to join a platform is prohibited"
+  * Amended Rule modification date.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| May 21, 2021      | * Added a rule about AntiVPN
+  * Amended Rule modification date.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| ???               | * Amended Rule 2 for specifying "specify that homophobia is prohibited".
+  * Added Ephesians 4:29 reference for A.5 as per the swearing rule.
+  * Change modification date, amend rule A.8 and change hyperlink for rule A.10 as per giving user option to email or submit a ticket.
+  * Split glitches rule to Network and Minecraft related rules as per the current rule "Do not intentionally take advantage of Network exploits"
+  * Amended A.17 to include status, and profile contents on Discord.
+  * Change client mods note to include Discord to report.
+  * Amended D.4 to include Discord and email to report.
+  * Added a rule on discovering/leaking/disclosing the world seed.
+  * Amended A.7 to revise the meaning of clicking.
+  * Amend B.1.6 to be more specific about flying machines.
+  * Amend A.12 to be less strict on linking pastoral care services and online church.
+  * Amend B.3 to include tools like ReplayMod to record and preview worlds.
