@@ -222,7 +222,7 @@ Last Modified: 16th of January 2024
       </td>
     </tr>
     <tr>
-      <td>???</td>
+      <td>16th of January 2024</td>
       <td>
         <ul>
           <li>Amended Rule 2 for specifying "specify that homophobia is prohibited".</li>
