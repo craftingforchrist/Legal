@@ -80,22 +80,16 @@ Last Modified: 16th of January 2024
 ### B.1.1 Survival Shopping District Specific
 > These rules apply to all shops within the Crafting For Christ Survival Server Shopping District.
 
-1. All shops must have a theme.
-> Ensure your shop has a clear and consistent theme. This helps maintain an organized and aesthetically pleasing shopping district.
-2. No bases or farms in the shopping district.
-> The shopping district is reserved exclusively for shops. Please build your bases and farms outside this area.
-3. No “variety” shops.
-4. Undercutting another user’s shop is allowed but keep it to a minimum.
-> While competitive pricing is permitted, please be respectful and avoid excessive undercutting.
-5. All shops must be in the shopping district.
-6. No bases directly outside the spawn area. Community builds are fine.
-7. Giving away items and “donation/trashcan” chests are allowed, but no free shops.
-> You may give items to other players and set up donation chests, but shops selling items for free in moderate quantities are prohibited.
-8. Staff reserve the right to remove a shop if most of its contents are sold out for over 30 days.
-> Shops that remain empty for extended periods may be removed to make space for active players.
-9. No misleading or scam shops.
-10. Shops can be built anywhere in the shopping district, as long as they do not hinder access to neighboring shops.
-> Be considerate of other players and ensure your shop does not block paths or entrances to nearby shops.
+1. All shops must have a clear and consistent theme.
+2. No bases or farms are allowed in the shopping district.
+3. Variety shops are prohibited; each shop should focus on a specific type of item or service.
+4. Undercutting another user’s shop is allowed but should be done minimally and respectfully.
+5. All shops must be located within the shopping district; shops outside this area will be removed.
+6. No bases are permitted directly outside the spawn area, though community builds are allowed.
+7. Giving away items and donation/trashcan chests are allowed, but shops selling items for free in moderate quantities are not permitted.
+8. Staff may remove shops that have been mostly sold out for over 30 days.
+9. Misleading or scam shops are not allowed; shop signs must accurately reflect the items or services sold.
+10. Shops can be built anywhere in the shopping district, as long as they do not block access to neighboring shops.
 
 ## B.2 Mixed Specific
 > These rules apply to the Crafting For Christ Mixed Server.
