@@ -77,6 +77,26 @@ Last Modified: 16th of January 2024
 14. Senior staff may remove players who are AFK for an extended period to prevent lag.
 15. You must not attempt to uncover or share the world seed.
 
+### B.1.1 Survival Shopping District Specific
+> These rules apply to all shops within the Crafting For Christ Survival Server Shopping District.
+
+1. All shops must have a theme.
+> Ensure your shop has a clear and consistent theme. This helps maintain an organized and aesthetically pleasing shopping district.
+2. No bases or farms in the shopping district.
+> The shopping district is reserved exclusively for shops. Please build your bases and farms outside this area.
+3. No “variety” shops.
+4. Undercutting another user’s shop is allowed but keep it to a minimum.
+> While competitive pricing is permitted, please be respectful and avoid excessive undercutting.
+5. All shops must be in the shopping district.
+6. No bases directly outside the spawn area. Community builds are fine.
+7. Giving away items and “donation/trashcan” chests are allowed, but no free shops.
+> You may give items to other players and set up donation chests, but shops selling items for free in moderate quantities are prohibited.
+8. Staff reserve the right to remove a shop if most of its contents are sold out for over 30 days.
+> Shops that remain empty for extended periods may be removed to make space for active players.
+9. No misleading or scam shops.
+10. Shops can be built anywhere in the shopping district, as long as they do not hinder access to neighboring shops.
+> Be considerate of other players and ensure your shop does not block paths or entrances to nearby shops.
+
 ## B.2 Mixed Specific
 > These rules apply to the Crafting For Christ Mixed Server.
 
