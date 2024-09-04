@@ -1,4 +1,4 @@
-Last Modified: 16th of January 2024
+Last Modified: 5th of September 2024
 
 # A. Network Global Guidelines
 > These rules apply to all Crafting For Christ services.
@@ -86,7 +86,7 @@ Last Modified: 16th of January 2024
 3. Variety shops are prohibited; each shop should focus on a specific type of item or service.
 4. We encourage respectful competition between multiple shops selling the same items.
 5. All shops must be located within the shopping district; shops outside this area may be removed.
-6. Giving away items and donation/trashcan chests are allowed, but shops selling items for free in moderate quantities are not permitted.
+6. Giving away items and donation/trashcan chests are allowed, but shops selling items for free in moderate quantities is not permitted.
 8. Staff may remove shops that have been mostly sold out for over 30 days.
 9. Misleading or scam shops are not allowed; shop signs must accurately reflect the items or services sold.
 10. Shops can be built anywhere in the shopping district, as long as they do not block access to neighboring shops.
