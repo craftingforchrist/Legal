@@ -255,5 +255,14 @@ Last Modified: 22nd of September 2024
         </ul>
       </td>
     </tr>
+    <tr>
+      <td>22nd of September 2024</td>
+      <td>
+        <ul>
+          <li>Added B.1.16.</li>
+          <li>Added new B.1.1 Survival Shopping District Specific section.</li>
+        </ul>
+      </td>
+    </tr>
   </tbody>
 </table>
