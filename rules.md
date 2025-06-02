@@ -1,4 +1,4 @@
-Last Modified: 22nd of September 2024
+Last Modified: 2nd of June 2025
 
 # A. Network Global Guidelines
 > These rules apply to all Crafting For Christ services.
