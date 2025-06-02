@@ -98,7 +98,7 @@ Last Modified: 22nd of September 2024
 2. Don't give out tactical information or try to disrupt the game as an observer. For example, revealing the locations of players.
 3. Maps may have rules that apply only to that specific map. They can be read under `/map`.
 4. Don't encourage or trick other players into leaving the game or the server.
-5. Spawn camping isn't allowed. You must not directly attack the enemy team's spawn or its exits. This includes using TNT, lava or fire. This rule only applies to DTC, DTM and CTW gamemodes.
+5. Spawn camping isn't allowed. You must not directly attack the enemy team's spawn or its exits. This includes using TNT, lava or fire.
 6. Any client modifications or external tools that give you a severe, game altering advantage over vanilla Minecraft users is not allowed.<br>
  6.A. The following mods are explicitly not permitted on Mixed:<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Inventory Sorters<br>
@@ -107,6 +107,7 @@ Last Modified: 22nd of September 2024
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Minimaps<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Damage / Health Indicator<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ SmartMoving
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ ElytraKey
 
 > Note: For any other modifications, open a ticket via our [Discord](http://www.craftingforchrist.net/discord) or email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> if you are unsure whether a client modification is allowed or not.
   
