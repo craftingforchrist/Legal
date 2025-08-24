@@ -1,4 +1,4 @@
-Last Modified: 2nd of June 2025
+Last Modified: 25th of August 2025
 
 # A. Network Global Guidelines
 > These rules apply to all Crafting For Christ services.
@@ -94,6 +94,12 @@ Last Modified: 2nd of June 2025
 
 ### B.1.2 Survival Community District Specific
 > These rules apply to all builds within the Crafting For Christ Survival Server Community District.
+
+1. All builds in the community district must be made for public access.
+> Note: We still encourage claiming your builds. Consider using different trust levels.
+2. Community farms are allowed and encouraged. Please take measures to reduce lag.
+3. All automated farms must have an on/off switch. 
+4. This is a community space work together to make it a space that benefits everyone. This space can house farms, arenas, a donation center, a trading hall, etc.
 
 ## B.2 Mixed Specific
 > These rules apply to the Crafting For Christ Mixed Server.
