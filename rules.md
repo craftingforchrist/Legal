@@ -1,4 +1,4 @@
-Last Modified: 2nd of June 2025
+Last Modified: 25th of August 2025
 
 # A. Network Global Guidelines
 > These rules apply to all Crafting For Christ services.
@@ -16,15 +16,16 @@ Last Modified: 2nd of June 2025
 10. Do not intentionally take advantage of Network exploits and glitches that give you an advantage of other players. We highly encourage you to submit a ticket on the issue tracker, [http://www.craftingforchrist.net/issues](http://www.craftingforchrist.net/issues), with details regarding the potential Network exploit.
 11. You are not allowed to post links or content that may lead to or contain NSFW or inappropriate websites/content.
 12. Advertising or sharing external server addresses or Discord links unrelated or not affiliated to Crafting For Christ is prohibited; however, promoting participation in online churches or pastoral care services may be allowed within reasonable guidelines.
-13. Users may not knowingly degrade network resources, which includes unreasonable redstone clocking and excessive TNT explosions, among others.
 
 > Note: If you are concerned about links that may constitute advertising, please ask a Staff Member before posting.
 
+13. Users may not knowingly degrade network resources, which includes unreasonable redstone clocking and excessive TNT explosions, among others.
 14. DDOS or DOS threats/attacks are not permitted and will not be tolerated.<br>
 > Note: On Discord, DDOS (Distributed Denial-of-Service) threats is treated as a Terms of Service violation.
-15. Evading a punishment by connecting with another account is not allowed, and may result in all your accounts and IP address being banned.
-16. Impersonating other users and staff members is prohibited. If you believe someone is impersonating you, contact a staff member.
-17. Your username, skin, avatar, or profile picture should always remain suitable for all age groups. Any usernames, skins, avatars, or profile pictures that are deemed objectionable, inappropriate, or convey an inappropriate impression will not be permitted. Please also consider the appropriateness of your status and the content within your profile.
+15. DOX threats/attacks or any content that condones doxxing will not be tolerated.
+16. Evading a punishment by connecting with another account is not allowed, and may result in all your accounts and IP address being banned.
+17. Impersonating other users and staff members is prohibited. If you believe someone is impersonating you, contact a staff member.
+18. Your username, skin, avatar, or profile picture should always remain suitable for all age groups. Any usernames, skins, avatars, or profile pictures that are deemed objectionable, inappropriate, or convey an inappropriate impression will not be permitted. Please also consider the appropriateness of your status and the content within your profile.
 
 # B. Global Minecraft Guidelines
 > These rules apply to all Crafting For Christ Minecraft Services.
@@ -53,7 +54,7 @@ Last Modified: 2nd of June 2025
 
 > Note: For any other modifications, open a ticket via our [Discord](http://www.craftingforchrist.net/discord) or email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> if you are unsure whether a client modification is allowed or not.
 
-6. Don't accuse other players of cheating in chat. If you think someone is cheating, use the `/report` command, private message an online Staff Member in game or on Discord.
+6. Don't accuse other players of breaking rules in chat. If you think someone is breaking the rules, use the `/report` command, private message an online Staff Member in game or on Discord.
 7. If you have an inappropriate username or skin, you will be banned until they have been changed.
 
 ## B.1 Survival Specific
@@ -72,17 +73,17 @@ Last Modified: 2nd of June 2025
 10. The End Outer islands will be reset every 3 months.<br>
 > The Staff team is not responsible for any builds or items lost from the End pruning.
 11. Flying TNT dupers are not allowed. Stationary TNT dupers are permitted for small farms. Excessive or large TNT duping farms are not permitted.
-12. Pranks done in fun, among friends are permitted, but genuine griefing will not be tolerated.
-13. If you are inactive for over 90 days (3 months), your claim will exprire.
+12. Pranks done in fun, among friends, are permitted, but genuine griefing will not be tolerated.
+13. If you are inactive for over 90 days (3 months), your claim will expire.
 14. Senior staff may remove players who are AFK for an extended period to prevent lag.
 15. You must not attempt to uncover or share the world seed.
-16. No bases are permitted directly outside the spawn area, though community builds are allowed.
+16. No bases are permitted directly outside the spawn area, though community builds are allowed. 
 
 ### B.1.1 Survival Shopping District Specific
 > These rules apply to all shops within the Crafting For Christ Survival Server Shopping District.
 
 1. All shops must have a clear and consistent theme.
-2. No bases or farms are allowed in the shopping district.
+2. No bases, farms, or non-shop builds are allowed in the shopping district.
 3. Variety shops are prohibited; each shop should focus on a specific type of item or service.
 4. We encourage respectful competition between multiple shops selling the same items.
 5. All shops must be located within the shopping district; shops outside this area may be removed.
@@ -90,6 +91,15 @@ Last Modified: 2nd of June 2025
 8. Staff may remove shops that have been mostly sold out for over 60 days.
 9. Misleading or scam shops are not allowed; shop signs must accurately reflect the items or services sold.
 10. Shops can be built anywhere in the shopping district, as long as they do not block access to neighboring shops.
+
+### B.1.2 Survival Community District Specific
+> These rules apply to all builds within the Crafting For Christ Survival Server Community District.
+
+1. All builds in the community district must be made for public access.
+> Note: We still encourage claiming your builds. Consider using different trust levels.
+2. Community farms are allowed and encouraged. Please take measures to reduce lag.
+3. All automated farms must have an on/off switch. 
+4. This is a community space work together to make it a space that benefits everyone. This space can house farms, arenas, a donation center, a trading hall, etc.
 
 ## B.2 Mixed Specific
 > These rules apply to the Crafting For Christ Mixed Server.
@@ -106,12 +116,12 @@ Last Modified: 2nd of June 2025
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Automatic tool selectors<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Minimaps<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ Damage / Health Indicator<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ SmartMoving
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ SmartMoving<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;❌ ElytraKey
 
 > Note: For any other modifications, open a ticket via our [Discord](http://www.craftingforchrist.net/discord) or email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a> if you are unsure whether a client modification is allowed or not.
   
-### B.3 Team Griefing
+### B.2.1 Team Griefing
 1. Team griefing is prohibited, and is defined as any action that directly harms your own team.
 2. Common indicators of team griefing:
   - Placing and/or setting off TNT in your base (for non defensive purposes).
@@ -123,8 +133,10 @@ Last Modified: 2nd of June 2025
 
 # C. Discord Guidelines
 1. Your Discord username must follow your in game name or be a nickname most of the community knows you by.
-2. Please maintain a positive and constructive environment. Disrespectful and hurtful comments will result in punishment.
-3. Please be respectful to all players with all different beliefs. While you may not agree with them, you must respect and honour them appropriately.
+2. Discord has a minimum age requirement of 13 years old. We will remove any account that is below this minimum age.<br>
+> Note: Using Discord below the age of 13, even with a parent's permission, is ToS violation and may result in Discord suspending the account.
+3. Please maintain a positive and constructive environment. Disrespectful and hurtful comments will result in punishment.
+4. Please be respectful to all players with all different beliefs. While you may not agree with them, you must respect and honour them appropriately.
 5. Any inappropriate links, images, or videos are strictly prohibited.
 6. Stay on-topic within channels. Low quality and non-related content belongs in #off-topic.
 7. Voice Channel Rules:<br>
