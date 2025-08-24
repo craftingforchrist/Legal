@@ -16,10 +16,10 @@ Last Modified: 25th of August 2025
 10. Do not intentionally take advantage of Network exploits and glitches that give you an advantage of other players. We highly encourage you to submit a ticket on the issue tracker, [http://www.craftingforchrist.net/issues](http://www.craftingforchrist.net/issues), with details regarding the potential Network exploit.
 11. You are not allowed to post links or content that may lead to or contain NSFW or inappropriate websites/content.
 12. Advertising or sharing external server addresses or Discord links unrelated or not affiliated to Crafting For Christ is prohibited; however, promoting participation in online churches or pastoral care services may be allowed within reasonable guidelines.
-13. Users may not knowingly degrade network resources, which includes unreasonable redstone clocking and excessive TNT explosions, among others.
 
 > Note: If you are concerned about links that may constitute advertising, please ask a Staff Member before posting.
 
+13. Users may not knowingly degrade network resources, which includes unreasonable redstone clocking and excessive TNT explosions, among others.
 14. DDOS or DOS threats/attacks are not permitted and will not be tolerated.<br>
 > Note: On Discord, DDOS (Distributed Denial-of-Service) threats is treated as a Terms of Service violation.
 15. DOX threats/attacks or any content that condones doxxing will not be tolerated.
