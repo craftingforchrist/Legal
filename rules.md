@@ -1,4 +1,4 @@
-Last Modified: 25th of August 2025
+Last Modified: 28th September 2025
 
 # A. Network Global Guidelines
 > These rules apply to all Crafting For Christ services.
@@ -22,7 +22,7 @@ Last Modified: 25th of August 2025
 13. Users may not knowingly degrade network resources, which includes unreasonable redstone clocking and excessive TNT explosions, among others.
 14. DDOS or DOS threats/attacks are not permitted and will not be tolerated.<br>
 > Note: On Discord, DDOS (Distributed Denial-of-Service) threats is treated as a Terms of Service violation.
-15. DOX threats/attacks or any content that condones doxxing will not be tolerated.
+15. DOX threats/attacks or any content that condones doxing will not be tolerated.
 16. Evading a punishment by connecting with another account is not allowed, and may result in all your accounts and IP address being banned.
 17. Impersonating other users and staff members is prohibited. If you believe someone is impersonating you, contact a staff member.
 18. Your username, skin, avatar, or profile picture should always remain suitable for all age groups. Any usernames, skins, avatars, or profile pictures that are deemed objectionable, inappropriate, or convey an inappropriate impression will not be permitted. Please also consider the appropriateness of your status and the content within your profile.
@@ -151,131 +151,3 @@ Last Modified: 25th of August 2025
 2. There is a one week grace period for rule changes.
 3. The Senior Staff Team has the right to ban or unban any player from any services for any reason without notice.
 4. If you notice any player is in violation of these rules, obtain relevant and sufficient evidence and submit a ticket via our [Discord](http://www.craftingforchrist.net/discord) or email <a href="mailto:support@craftingforchrist.net">support@craftingforchrist.net</a>. Do not take to the community for public blaming, flaming and shaming.
-
-## Revision History
-<table>
-  <thead>
-    <tr>
-      <th>Date</th>
-      <th>Changes</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>February 19, 2020</td>
-      <ul>
-          <li>Initial Release of Network Rules.</li>
-      </ul>
-    </tr>
-    <tr>
-      <td>February 27, 2020</td>
-      <td>
-        <ul>
-          <li>Changed A. Community Guidelines to A. Network Global Guidelines.</li>
-          <li>Reformatted rules in A section and added additional rules.</li>
-          <li>Changed B. Gameplay Guidelines to B. Global Minecraft Guidelines.</li>
-          <li>Added rule about client modifications.</li>
-          <li>Added B.1 Survival Specific with additional rules.</li>
-          <li>Added rule about bumping along with definition on C. Forum Guidelines.</li>
-          <li>Amended formatting for D.5 in D. Discord Guidelines.</li>
-          <li>Amended Rule modification date.</li>
-          <li>Amended and clarified rules in A. Network Global Guidelines in regards to links, content, advertising, and impersonation.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>March 3, 2020</td>
-      <td>
-        <ul>
-          <li>General formatting and presentation of rules.</li>
-          <li>Amended Rule modification date.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>March 7, 2020</td>
-      <td>* Amended rule 11 about TNT dupers, stating "Stationary TNT dupers are permitted for small farms. Excessive or large TNT duping farms are not permitted."</td>
-    </tr>
-    <tr>
-      <td>August 6, 2020</td>
-      <td>
-        <ul>
-          <li>Added B.2 Mixed Specific section.</li>
-          <li>Amended Rule modification date.</li>
-          <li>Updated wording on several rules and added B.2.1, B.2.2 & B.2.3.</li>
-          <li>Added permitted and prohibited client modifications to B. Global Minecraft Guidelines.</li>
-          <li>Added B.2.1 Team Griefing.</li>
-          <li>Changed A.13 to define what Ban Evading is.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>August 7, 2020</td>
-      <td>
-        <ul>
-          <li>Changed E.1 "you" to "the player".</li>
-          <li>Added mixed specific client modifications and fixed spacing on multiple rules.</li>
-          <li>Fixed numbering on multiple rules in multiple sections.</li>
-          <li>Amended A.2 to include "all community members and those of the Staff Team."</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>August 12, 2020</td>
-      <td>
-        <ul>
-          <li>Made additional formatting changes on rules in general.</li>
-          <li>Amended Rule modification date.</li>
-          <li>Removed Toggle Sneak and added Schematica in client modifications.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>January 20, 2021</td>
-      <td>
-        <ul>
-          <li>Update A.11 to "Encouraging other users in any way to join a platform is prohibited".</li>
-          <li>Amended Rule modification date.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>May 21, 2021</td>
-      <td>
-        <ul>
-          <li>Added a rule about AntiVPN.</li>
-          <li>Amended Rule modification date.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>16th of January 2024</td>
-      <td>
-        <ul>
-          <li>Amended Rule 2 for specifying "specify that homophobia is prohibited".</li>
-          <li>Added Ephesians 4:29 reference for A.5 as per the swearing rule.</li>
-          <li>Change modification date, amend rule A.8 and change hyperlink for rule A.10 as per giving the user option to email or submit a ticket.</li>
-          <li>Split glitches rule to Network and Minecraft related rules as per the current rule "Do not intentionally take advantage of Network exploits".</li>
-          <li>Amended A.17 to include status, and profile contents on Discord.</li>
-          <li>Change client mods note to include Discord to report.</li>
-          <li>Amended D.4 to include Discord and email to report.</li>
-          <li>Added a rule on discovering/leaking/disclosing the world seed.</li>
-          <li>Amended A.7 to revise the meaning of clicking.</li>
-          <li>Amend B.1.6 to be more specific about flying machines.</li>
-          <li>Amend A.12 to be less strict on linking pastoral care services and online church.</li>
-          <li>Amend B.3 to include tools like ReplayMod to record and preview worlds.</li>
-          <li>Add revision history table.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>22nd of September 2024</td>
-      <td>
-        <ul>
-          <li>Added B.1.16.</li>
-          <li>Added new B.1.1 Survival Shopping District Specific section.</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
