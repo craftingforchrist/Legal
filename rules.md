@@ -1,4 +1,4 @@
-Last Modified: 28th September 2025
+Last Modified: 28th April 2027
 
 # A. Network Global Guidelines
 > These rules apply to all Crafting For Christ services.
@@ -26,6 +26,7 @@ Last Modified: 28th September 2025
 16. Evading a punishment by connecting with another account is not allowed, and may result in all your accounts and IP address being banned.
 17. Impersonating other users and staff members is prohibited. If you believe someone is impersonating you, contact a staff member.
 18. Your username, skin, avatar, or profile picture should always remain suitable for all age groups. Any usernames, skins, avatars, or profile pictures that are deemed objectionable, inappropriate, or convey an inappropriate impression will not be permitted. Please also consider the appropriateness of your status and the content within your profile.
+19. All chat must be in English to ensure clear communication and effective moderation.
 
 # B. Global Minecraft Guidelines
 > These rules apply to all Crafting For Christ Minecraft Services.
